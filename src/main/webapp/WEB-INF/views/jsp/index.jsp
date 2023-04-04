@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">ANIL IT</a>
+			<a class="navbar-brand" href="#">Welcome to ANIL IT</a>
 		</div>
 	</div>
 </nav>
