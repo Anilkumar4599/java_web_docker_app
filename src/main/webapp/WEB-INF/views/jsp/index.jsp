@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>Maven + Spring MVC + Docker + Kubernetes + Jenkins</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Ashok IT</a>
+			<a class="navbar-brand" href="#">ANIL IT</a>
 		</div>
 	</div>
 </nav>
@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more with Anil</a>
 		</p>
 	</div>
 </div>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Ashok IT..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
+			<h2>Welcome To ANIL IT..!!</h2>
+			<h3>Contact @ +91 - 1234567890 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; ANIL IT 2023</p>
 	</footer>
 </div>
 
